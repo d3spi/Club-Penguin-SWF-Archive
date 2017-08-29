@@ -15,8 +15,6 @@
 
 *media1.clubpenguin.com has exactly 14703 SWF files archived.*
 
-*archives.clubpenguinwiki.info has over 40k SWF files archived.*
-
 **Please note that I do not claim any kind of credit for the files. I do take credit for taking my time and collecting them.**
 
 **I do not own the wayback machine downloader.**
